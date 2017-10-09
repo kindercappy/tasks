@@ -1,0 +1,12 @@
+[user]
+	email = kinderpreet.singh@round.glass
+	name = kinder
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	ph = push
+	pl = pull
+	g = git
+	mr = merge
