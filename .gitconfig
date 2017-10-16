@@ -8,5 +8,4 @@
 	st = status
 	ph = push
 	pl = pull
-	g = git
 	mr = merge
